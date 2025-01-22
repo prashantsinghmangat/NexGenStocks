@@ -1,22 +1,32 @@
 # NexGenStocks
 
+## Welcome to Indian Stocks Tracker  
+### Created by Prashant Singh Mangat  
 
-# Welcome to your Indian Stocks Trackers NexGenStocks Project Created by Prashant Singh Mangat
+---
 
-## Project info
+## Project Info  
 
-**Deployed Demo URL**: [nexgenstocks.netlify.app](https://nexgenstocks.netlify.app/)
+- **Deployed Demo URL**:  
+  [nexgenstocks.netlify.app](https://nexgenstocks.netlify.app/)  
 
-Read My Blogs Content: https://nexgentalk.com/
+- **Read My Blogs**:  
+  [nexgentalk.com](https://nexgentalk.com/)  
 
-Know Me: https://prashantsinghmangat.netlify.app/
+- **Know More About Me**:  
+  [prashantsinghmangat.netlify.app](https://prashantsinghmangat.netlify.app/)  
 
-## What technologies are used for this project?
+---
 
-This project is built with .
+## Technologies Used  
 
-- Vite
-- TypeScript
-- React
-- Tailwind CSS
+This project is built using the following technologies:  
 
+- **Vite**  
+- **TypeScript**  
+- **React**  
+- **Tailwind CSS**  
+
+---
+
+Thank you for checking out this project! Feel free to explore the links provided above to learn more.

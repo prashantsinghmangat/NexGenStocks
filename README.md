@@ -5,7 +5,7 @@
 
 ## Project info
 
-**URL**: nexgenstocks.netlify.app
+**URL**: [nexgenstocks.netlify.app](https://nexgenstocks.netlify.app/)
 
 ## What technologies are used for this project?
 

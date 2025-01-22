@@ -1,0 +1,2 @@
+# NexGenStocks
+Indian Stocks Trackers

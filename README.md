@@ -5,7 +5,11 @@
 
 ## Project info
 
-**URL**: [nexgenstocks.netlify.app](https://nexgenstocks.netlify.app/)
+**Deployed Demo URL**: [nexgenstocks.netlify.app](https://nexgenstocks.netlify.app/)
+
+Read My Blogs Content: https://nexgentalk.com/
+
+Know Me: [https://nexgentalk.com/](https://prashantsinghmangat.netlify.app/)
 
 ## What technologies are used for this project?
 

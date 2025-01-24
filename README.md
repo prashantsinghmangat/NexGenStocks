@@ -29,4 +29,6 @@ This project is built using the following technologies:
 
 ---
 
+Read More article on : https://nexgentalk.com/best-react-project-ideas/
+
 Thank you for checking out this project! Feel free to explore the links provided above to learn more.
